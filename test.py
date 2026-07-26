@@ -1,6 +1,7 @@
 '''test file'''
 import os
-import numpy as np
+
+# add by git-bash
 
 if __name__ == "__main__":
     pass
